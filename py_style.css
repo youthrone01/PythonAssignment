@@ -1,0 +1,170 @@
+
+.container{
+    width: 970px;
+    margin: 0 auto;
+}
+.top{
+    height: 590px;
+    background-color: #245176;
+}
+
+.middle{
+    width: 970px;
+    height: 330px;
+    text-align: center;
+}
+.bottom{
+    width: 970px;
+    height: 100px;
+    background-color: #245176;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bar{
+    background-color: #477EAD;
+}
+
+.search{
+    height: 100px;
+    margin-left: 250px;
+    /* margin-top: 50px; */
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 15px;
+}
+
+.searchinput{
+    height: 50px;
+    width: 220px;
+    background-color: #444444;
+    padding-top:15px;
+    padding-left: 20px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+
+#searchbox{
+    height: 30px;
+    border: 1px;
+    border-radius: 5px;
+}
+
+#go{
+    height: 30px;
+    background-color: #245176;
+    color: white;
+}
+
+#pic1{
+    height: 150px;
+    width: 450px;
+
+}
+label{
+    color: white;
+    margin-left: 50Px;
+}
+
+.search a{
+    
+    color: #A79818;
+}
+
+.bar{
+    height: 50px;
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 1px;
+    border-radius: 10px;
+    
+}
+
+.barlist{
+    color: white;
+    display: inline;
+    margin: 18px;
+    font-size: 20px;
+    
+}
+.content div{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 35px;
+}
+.nvg{
+    height: 200px;
+    width: 300px;
+    
+    text-align: center;
+    
+    padding-top: 20px;
+}
+
+.paragraph{
+    height: 400px;
+    width: 600px;
+    
+    text-align: center;
+    
+}
+
+.paragraph p{
+    color: white;
+}
+.paragraph span{
+    color: #C8B340;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-weight: bold;  
+}
+
+blockquote:last-child{
+    color: white;
+    font-size: 24px;
+    font-weight: bold; 
+}
+
+.nvg ul li{
+    margin-top: 15px;
+}
+
+.nvg ul li a{
+    color: white;
+    
+    
+}
+
+.middle div{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 15px;
+    border-top: 5px solid blue;
+    /* background-color: black; */
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.middle ul li{
+    color: #57D6F1;
+}
+
+.bottom ul li{
+    display: inline;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bottom ul li{
+    color: #7AADDA;
+    font-size: 18px;
+}
+.bottom p{
+    color: #7AADDA;
+}
